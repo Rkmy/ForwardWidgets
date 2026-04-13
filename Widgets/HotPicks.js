@@ -4,7 +4,7 @@ var WidgetMetadata = {
   id: "hot_picks",
   title: "热门精选",
   description: "获取最新热门影片推荐",
-  author: "两块",
+  author: "两块-自建",
   site: "https://github.com/2kuai/ForwardWidgets",
   version: "1.2.1",
   requiredVersion: "0.0.1",
